@@ -1,0 +1,12 @@
+[submodule "etapa_1_e_2_teste_tecnico_intuitivecare"]
+	path = etapa_1_e_2_teste_tecnico_intuitivecare
+	url = https://github.com/EduardoRuiiz/etapa_1_e_2_teste_tecnico_intuitivecare.git
+[submodule "etapa_3_teste_tecnico_intuitivecare"]
+	path = etapa_3_teste_tecnico_intuitivecare
+	url = git@github.com:EduardoRuiiz/etapa_3_teste_tecnico_intuitivecare.git
+[submodule "etapa_4_backend_teste_tecnico_intuitivecare"]
+	path = etapa_4_backend_teste_tecnico_intuitivecare
+	url = https://github.com/EduardoRuiiz/etapa_4_backend_teste_tecnico_intuitivecare.git
+[submodule "etapa_4_frontend_teste_tecnico_intuitivecare"]
+	path = etapa_4_frontend_teste_tecnico_intuitivecare
+	url = https://github.com/EduardoRuiiz/etapa_4_frontend_teste_tecnico_intuitivecare.git
